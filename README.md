@@ -15,4 +15,4 @@ The installer (.EXE) can be downloaded [here.](https://github.com/WPHS-App-Devel
 
 ---
 To properly uninstall Legend of Arondight, run the included uninstaller file (`LoAUninstall.exe`). The file will uninstall your copy of the game.
-Alternatiely, if the source code was downloaded, the game can be deleted or moved to the recycle bin.
+Alternatively, if the source code was downloaded, the game can be deleted or moved to the recycle bin.
