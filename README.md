@@ -1,6 +1,6 @@
 # Legend of Arondight
 
-**Legend of Arondight** (C 2022 Team 112 of the West Point High School App Developers.
+**Legend of Arondight** (C 2022 Team 112 of the West Point High School App Developers)
 
 **Legend of Arondight** falls under the GNU AGPLv3.0 license. If you did not recieve a copy of the GNU AGPLv3.0, you can download or view another copy [here.](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
